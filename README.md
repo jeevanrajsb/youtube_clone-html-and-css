@@ -6,3 +6,4 @@ This project is a full-featured frontend replica of the YouTube homepage, built 
 * Adjust font sizes for enhanced readability.
 * Optimize layout for different device orientations (portrait or landscape).
 * Hovering Styles: Enhancing User Interaction
+* Helpful in understanding CSS Grid and Flexbox
